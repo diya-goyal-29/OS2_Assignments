@@ -1,0 +1,17 @@
+Number of times P1 came into the system is : 50
+Number of times P1 successfully completed : 46
+Number of misses for P1 is : 4
+Average waiting time of P1 is : 31
+Number of times P2 came into the system is : 40
+Number of times P2 successfully completed : 23
+Number of misses for P2 is : 17
+Average waiting time of P2 is : 21.625
+Number of times P3 came into the system is : 50
+Number of times P3 successfully completed : 25
+Number of misses for P3 is : 25
+Average waiting time of P3 is : 28.4
+
+Total number of misses : 46
+Total average waiting time : 27.3929
+
+

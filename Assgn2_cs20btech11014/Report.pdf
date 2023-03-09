@@ -1,0 +1,17 @@
+Report regarding working of system calls and creating the same.
+
+System calls work as the interface between the user and the operating system kernel. Different system calls invoke different functions so as to perform the intended job.
+We can take for example the printf() function. This function calls for the write() system call which thus enables us to print the sentences.
+
+In this assignment for part 1 we printed the return values for different system calls which are stored in the %eax register.
+
+As for part 2 we created a new system call which prints the date and time of the system.
+To achieve this the inbuilt function cmostime() is used.
+In the syscall.h header file we defined a macro for SYS_mydate as 22.
+In the syscall.c file we added the sys_mydate() system call in the system call list so as to enable the calling.
+In the sysproc.c file we defined the sys_mydate() system call(what the system call should do) using the cmostime() function.
+In usys.S file we added the system call label "mydate" which would assign the value SYS_mydate to the %eax register and also generate an interuppt.
+We created a mydate.c file to access the system call mydate.
+Finally in the makefile we added "_mydate/" under the UPROGS which contains the list of programs to be built.
+
+Hence, this is how we can create user-defined system calls in xv6.

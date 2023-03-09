@@ -1,0 +1,50 @@
+Student 3of group k2 requested the lab at Student 4of group k2 requested the lab at Student 5of group k2 requested the lab at Student 6of group k2 requested the lab at Student 7of group k1 requested the lab at Student 8of group k1 requested the lab at Student 2of group k1 requested the lab at Student 1of group k2 requested the lab at Student 9of group k2 requested the lab at Fri Apr 29 20:41:53 2022
+
+Student 3of group k2 entered the lab at Fri Apr 29 20:41:53 2022
+
+Fri Apr 29 20:41:53 2022
+
+Student 10of group k2 entered the lab at Fri Apr 29 20:41:53 2022
+
+Student 3of group k2 exited the lab at Fri Apr 29 20:41:53 2022
+
+Student 10of group k2 exited the lab at Fri Apr 29 20:41:53 2022
+
+Fri Apr 29 20:41:53 2022
+
+Student 6of group k2 entered the lab at Fri Apr 29 20:41:53 2022
+
+Fri Apr 29 20:41:53 2022
+
+Student 8of group k1 entered the lab at Fri Apr 29 20:41:53 2022
+
+Fri Apr 29 20:41:53 2022
+
+Student 2of group k1 entered the lab at Fri Apr 29 20:41:53 2022
+
+Fri Apr 29 20:41:53 2022
+
+Student 1of group k2 entered the lab at Fri Apr 29 20:41:53 2022
+
+Fri Apr 29 20:41:53 2022
+
+Student 9of group k2 entered the lab at Fri Apr 29 20:41:53 2022
+
+Student 1of group k2 exited the lab at Fri Apr 29 20:41:53 2022
+
+Student 2of group k1 exited the lab at Fri Apr 29 20:41:53 2022
+
+Fri Apr 29 20:41:53 2022
+
+Student 4of group k2 entered the lab at Fri Apr 29 20:41:53 2022
+
+1 exited the lab at Fri Apr 29 20:41:53 2022
+
+Student 9of group k2 exited the lab at Fri Apr 29 20:41:53 2022
+
+Student 6of group k2 exited the lab at Fri Apr 29 20:41:53 2022
+
+Fri Apr 29 20:41:53 2022
+
+Fri Apr 29 20:41:53 2022
+
